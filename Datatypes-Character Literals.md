@@ -1,4 +1,4 @@
-# Character Literal in Python
+# Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
